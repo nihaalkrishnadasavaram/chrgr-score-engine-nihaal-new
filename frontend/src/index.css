@@ -1,0 +1,42 @@
+:root {
+  --bg: #14181b;
+  --surface: #1b2226;
+  --surface-raised: #212a2f;
+  --border: #2b353b;
+  --text-primary: #e9edee;
+  --text-secondary: #8b98a0;
+  --text-muted: #5c6a71;
+  --accent: #ffb020;
+  --accent-dim: #7a5a1c;
+  --worked: #4fb06a;
+  --failed: #e8654f;
+  --font-display: 'Space Grotesk', -apple-system, sans-serif;
+  --font-mono: 'IBM Plex Mono', 'SF Mono', monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text-primary);
+  font-family: var(--font-display);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--accent-dim);
+  color: var(--text-primary);
+}
+
+a {
+  color: inherit;
+}
