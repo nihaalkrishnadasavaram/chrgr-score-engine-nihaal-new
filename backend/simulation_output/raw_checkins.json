@@ -1,0 +1,3072 @@
+{
+  "CHRGR-001": {
+    "id": "CHRGR-001",
+    "label": "Always Reliable",
+    "raw_checkins": [
+      {
+        "result": "worked",
+        "timestamp": "2026-06-26T07:53:33.461372+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-26T10:09:47.381453+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-26T18:36:22.890585+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-27T06:30:23.589830+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-27T07:28:40.656557+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-27T13:10:21.615365+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-28T18:10:20.400311+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-29T09:44:50.966069+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-06-29T16:01:03.059853+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-30T17:52:06.130973+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-01T09:39:37.202241+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-02T07:34:36.045615+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-03T16:15:48.033120+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-03T19:43:16.250324+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-04T07:20:22.572122+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-04T10:59:02.510822+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-05T15:48:53.951290+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-05T17:58:39.796376+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-06T20:32:25.444526+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-06T22:44:55.557064+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-07T12:12:07.729353+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-07T16:48:23.887989+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-08T17:37:13.117131+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-08T17:55:51.403184+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-09T08:46:40.232618+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-09T12:27:02.673036+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-09T18:23:42.560035+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-10T06:57:03.402390+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-10T11:30:46.103346+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-10T19:03:40.790949+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-11T09:35:12.150027+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-12T11:20:58.286305+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-12T12:43:32.672345+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-12T17:08:32.846316+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-13T18:39:53.325704+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-14T12:47:23.310915+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-14T15:56:16.662602+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-14T21:15:46.760476+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-15T18:50:53.868041+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-16T16:39:59.697752+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-17T12:32:27.759474+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-17T16:08:20.232681+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-18T20:37:59.717777+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-18T22:30:29.996710+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-19T18:45:53.721335+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-19T19:03:58.242439+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-19T21:02:29.053148+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-20T22:12:53.534764+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-21T18:57:12.086582+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-21T22:31:19.551651+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-22T11:04:24.821237+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-22T16:21:08.976940+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-22T16:51:43.709086+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-23T14:18:22.669331+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-23T16:10:55.408569+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-23T21:36:51.801857+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-24T10:04:14.481393+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-24T10:05:41.341458+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-25T07:10:35.806130+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-25T14:15:42.616355+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-25T18:55:48.852514+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-26T08:48:25.769889+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-26T14:58:13.635790+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-26T16:18:43.547750+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-27T09:25:10.445079+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-27T11:17:57.037028+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-27T22:55:03.140628+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-28T10:12:51.823556+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-29T16:00:04.493570+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-30T06:07:20.079346+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-31T09:53:31.237169+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-01T07:12:16.469813+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-01T10:02:45.883623+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-02T18:17:49.177032+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-03T14:02:07.466810+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-03T19:20:18.708767+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-03T19:43:38.816263+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-04T12:59:19.459294+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-04T20:41:06.809000+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-05T07:40:23.173714+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-05T11:46:05.319450+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-05T12:50:40.422465+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-06T08:22:59.156582+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-06T09:07:09.467790+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-07T13:31:59.601597+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-08T07:39:52.014166+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-08T15:11:23.981812+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-08T17:05:11.267513+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-09T08:49:38.239969+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-10T20:41:56.604115+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-11T12:26:33.154881+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-12T19:20:49.916636+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-12T21:45:02.906102+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-13T15:26:53.021392+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-13T18:12:46.586448+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-13T22:55:19.868597+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-14T07:02:10.603374+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-14T11:19:52.614358+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-14T18:30:27.115342+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-15T07:21:42.821673+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-15T08:40:34.882950+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-15T22:19:59.668880+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-16T12:51:51.063741+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-17T10:11:08.379285+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-17T16:06:24.572196+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-17T16:31:46.148432+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-18T09:28:20.663005+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-18T18:10:30.938208+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-19T13:46:22.143841+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-19T16:58:24.648277+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-19T21:47:35.921900+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-20T07:14:43.556131+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-20T09:37:25.043911+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-20T22:56:01.102609+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-21T12:16:55.057831+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-22T16:23:54.679262+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-22T17:57:36.643415+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-22T22:46:58.663494+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-23T07:45:39.493917+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-23T21:50:23.469613+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-24T18:37:15.901060+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-25T16:16:55.585414+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-25T18:11:57.865853+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-26T10:16:08.620627+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-26T14:35:31.034356+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-27T06:03:36.996172+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-27T10:42:12.829707+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-27T13:12:02.837281+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-28T13:30:40.333326+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-28T15:32:07.500124+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-28T17:59:46.847742+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-29T15:16:30.125699+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-30T06:42:39.926120+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-30T13:18:22.946828+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-30T15:23:34.535921+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-31T21:16:54.187755+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-01T17:20:16.324731+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-02T12:54:30.296258+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-02T16:33:04.484421+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-02T21:01:49.043729+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-03T20:59:02.671725+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-04T12:59:56.845793+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-04T19:18:02.053564+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-04T21:42:58.622469+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-05T19:23:07.319959+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-06T20:35:45.906982+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-07T11:56:39.095576+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-07T19:56:56.826515+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-08T09:16:59.543046+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-08T11:34:49.631413+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-08T20:41:38.400052+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-09T17:33:06.508844+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-09T20:20:32.063192+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-10T09:02:08.350350+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-10T22:21:47.100125+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-11T11:52:36.051235+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-11T19:22:09.404506+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-12T12:32:53.960521+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-13T06:45:16.455863+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-13T13:24:46.719946+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-14T17:24:02.464471+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-14T18:13:49.115948+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-14T18:36:47.344764+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-15T16:35:37.111089+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-15T17:16:39.313547+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-16T11:15:28.221327+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-16T12:50:26.903688+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-16T12:56:33.646007+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-17T17:30:51.858251+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-17T21:20:51.699399+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-18T09:34:23.180315+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-18T11:09:57.146895+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-18T20:10:23.980361+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-19T09:37:58.525741+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-19T13:31:00.179717+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-20T07:26:29.486848+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-20T08:53:05.113447+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-20T14:45:45.663007+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-21T17:26:15.095038+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-22T08:30:18.062489+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-23T16:23:29.967151+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-23T19:03:51.547547+00:00"
+      }
+    ]
+  },
+  "CHRGR-002": {
+    "id": "CHRGR-002",
+    "label": "Intermittent Failures",
+    "raw_checkins": [
+      {
+        "result": "failed",
+        "timestamp": "2026-06-26T09:18:19.436488+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-26T14:24:15.882743+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-06-26T17:50:16.880130+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-06-27T19:13:59.328894+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-28T06:51:13.365171+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-06-28T10:14:10.934715+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-28T14:48:19.014327+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-29T11:23:38.634997+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-06-29T15:01:45.271414+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-29T15:30:06.227771+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-06-30T13:15:16.534320+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-30T13:34:49.913059+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-30T21:24:59.509504+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-01T20:16:39.608736+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-02T10:04:01.846865+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-02T13:28:40.202708+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-02T14:14:17.337445+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-03T07:22:11.352649+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-03T08:33:50.836270+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-03T12:30:41.759897+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-04T13:04:05.383127+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-04T15:13:27.801799+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-05T06:19:55.355752+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-05T20:58:16.188373+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-05T22:04:58.996456+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-06T18:48:32.677654+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-06T20:30:31.014575+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-07T18:29:19.604518+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-07T19:35:51.932062+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-07T21:15:46.054461+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-08T11:42:51.128074+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-08T17:32:43.483364+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-09T21:37:55.947185+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-09T22:40:20.185024+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-10T06:27:38.645236+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-10T15:35:40.789361+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-10T16:55:36.278458+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-11T11:33:53.983217+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-11T13:43:47.598691+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-12T18:47:03.001202+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-12T20:08:33.766252+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-13T18:44:00.284778+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-14T07:09:59.444272+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-14T09:48:42.396542+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-15T22:08:36.238042+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-16T16:33:45.742183+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-17T15:35:14.938414+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-17T17:22:50.881291+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-18T08:51:08.695574+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-18T16:19:23.546626+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-19T22:24:00.911310+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-20T21:47:27.894707+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-21T12:44:35.251821+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-21T18:09:18.899949+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-22T10:07:42.382089+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-22T11:07:36.860352+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-22T17:51:08.211753+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-23T11:54:08.870437+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-23T13:16:56.734410+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-23T19:18:17.283197+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-24T07:47:38.978883+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-24T19:58:46.652187+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-25T13:24:11.813274+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-25T18:01:27.288995+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-26T16:28:13.836068+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-26T21:38:00.600602+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-27T10:10:24.304349+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-27T11:28:45.040478+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-27T16:04:19.446687+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-28T15:41:14.798254+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-28T17:21:33.134391+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-29T09:05:28.599258+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-29T09:36:21.734831+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-30T06:10:21.248204+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-30T10:41:47.636836+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-30T17:55:12.445520+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-31T10:05:07.824891+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-31T15:26:16.784149+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-01T07:34:54.865054+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-01T19:28:47.491530+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-02T12:16:24.051580+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-02T17:17:14.353322+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-03T11:58:50.804290+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-03T13:42:49.210087+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-03T15:21:23.774533+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-04T08:01:56.750165+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-04T15:06:34.874681+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-05T18:33:22.604795+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-06T10:48:39.520640+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-06T14:55:07.776389+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-06T22:36:08.349800+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-07T11:08:18.776433+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-08T10:39:47.853199+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-09T10:57:58.762647+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-09T16:50:37.622892+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-09T22:02:58.284425+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-10T13:29:16.690446+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-10T13:58:47.093030+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-11T07:06:39.018229+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-11T07:56:22.133012+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-12T06:54:40.875347+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-12T08:32:10.892170+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-12T15:34:05.783342+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-13T16:18:26.640256+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-13T19:26:33.338786+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-14T11:03:18.011710+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-14T21:26:40.467911+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-15T16:21:49.411829+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-15T16:33:26.872050+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-15T18:34:53.465496+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-16T07:22:48.672887+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-16T10:04:39.748874+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-16T15:23:01.925429+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-17T09:56:06.345555+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-17T10:57:05.068489+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-18T07:12:36.201321+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-18T09:58:05.536937+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-19T13:13:38.504726+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-19T17:14:24.402223+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-19T21:52:20.509657+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-20T07:12:50.282016+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-21T16:06:56.695084+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-21T20:00:43.506441+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-22T17:42:27.093062+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-22T17:53:43.701521+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-23T13:26:30.842451+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-23T16:09:59.843717+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-24T07:33:09.205462+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-24T10:15:22.515628+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-24T22:21:08.959454+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-25T15:47:46.315458+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-25T18:58:22.271055+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-25T19:57:50.980210+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-26T09:05:07.135810+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-26T15:57:02.173067+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-27T13:59:24.636172+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-28T17:23:32.170783+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-28T20:34:53.265377+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-29T12:48:27.677995+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-29T17:15:50.112464+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-30T11:20:48.450019+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-31T20:01:25.544840+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-31T20:42:12.527744+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-01T09:11:20.051533+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-01T13:01:30.751333+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-02T06:52:38.640641+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-02T10:32:23.841782+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-02T13:30:52.906490+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-03T08:03:51.276302+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-03T22:32:36.585128+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-04T11:16:57.908470+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-05T07:35:04.403118+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-05T22:52:06.136931+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-06T17:00:39.832954+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-07T10:57:41.927488+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-07T13:03:48.008988+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-07T17:59:31.191751+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-08T12:31:15.464011+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-09T07:11:12.376872+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-09T08:19:14.310689+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-09T18:41:13.103784+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-10T06:02:36.993873+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-10T10:32:30.966980+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-10T18:20:34.320136+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-11T13:35:28.700454+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-12T15:14:17.919853+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-12T15:22:57.345925+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-13T22:40:23.407438+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-14T09:58:14.021699+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-14T19:11:03.321876+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-15T12:28:51.346193+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-15T21:31:41.926271+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-15T22:48:10.936919+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-16T08:08:46.271712+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-17T20:47:05.659178+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-17T20:51:40.450892+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-18T06:15:39.272992+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-18T08:27:02.311457+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-19T13:58:52.824780+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-20T12:45:25.979422+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-20T16:35:43.475312+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-21T11:22:59.662621+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-21T12:27:36.575128+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-21T20:36:31.741671+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-22T16:29:48.519050+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-23T18:41:42.101644+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-23T21:39:20.860845+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-23T22:57:22.466485+00:00"
+      }
+    ]
+  },
+  "CHRGR-003": {
+    "id": "CHRGR-003",
+    "label": "Recently Broken",
+    "raw_checkins": [
+      {
+        "result": "worked",
+        "timestamp": "2026-06-26T13:32:33.127362+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-27T06:46:54.647283+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-28T12:05:37.956549+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-28T13:19:18.031417+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-29T07:20:32.863060+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-29T08:53:22.999323+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-29T19:28:22.191802+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-30T08:25:58.804472+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-06-30T10:19:03.413172+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-30T13:50:22.374697+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-01T08:41:08.108071+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-01T17:31:09.786205+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-02T11:05:08.240046+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-02T17:44:07.186963+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-02T22:21:16.179257+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-03T07:48:47.179966+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-03T12:28:59.495017+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-04T11:01:08.122138+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-04T17:11:23.664735+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-04T22:37:30.202456+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-05T18:40:04.535833+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-05T21:28:49.757568+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-05T22:33:04.492390+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-06T16:19:12.377888+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-07T09:13:56.077744+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-07T10:15:38.360163+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-07T18:50:41.332213+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-08T21:21:28.306689+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-09T06:34:01.909312+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-09T19:24:22.961621+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-10T11:33:15.210494+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-10T13:03:48.789317+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-11T15:01:28.165271+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-11T21:31:45.402838+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-12T11:01:02.656689+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-12T22:26:43.905461+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-13T08:23:34.329318+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-13T22:22:09.069524+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-14T12:45:21.583506+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-14T17:27:53.661294+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-14T20:22:39.562281+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-15T13:43:52.904897+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-15T15:07:18.225266+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-16T12:18:54.186830+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-16T12:28:38.760555+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-16T16:51:19.215189+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-17T11:34:33.984447+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-17T16:22:17.030387+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-17T17:00:36.325695+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-18T08:22:34.353165+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-18T12:56:27.706375+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-18T22:05:11.205812+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-19T08:18:22.639781+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-19T13:42:42.997922+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-19T17:23:53.756594+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-20T17:08:01.220127+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-20T18:21:07.868014+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-20T21:03:07.323575+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-21T06:33:22.236756+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-21T12:17:56.433475+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-22T07:41:20.503026+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-22T17:39:23.632247+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-23T07:01:45.665457+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-23T10:41:23.944181+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-24T07:33:30.413538+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-24T09:36:20.875904+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-25T19:22:31.828936+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-26T19:22:43.059719+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-27T09:31:18.031065+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-27T09:40:16.222737+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-27T20:47:05.360118+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-28T10:42:49.220574+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-29T15:11:01.185960+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-30T17:14:16.727727+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-31T12:05:24.427488+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-01T06:53:26.819893+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-01T08:57:43.867526+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-01T11:30:14.813472+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-02T12:09:16.785198+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-02T13:37:14.443113+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-03T22:04:19.437350+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-04T13:47:12.202352+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-04T14:51:52.814340+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-04T22:23:18.402407+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-05T07:50:07.263976+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-05T13:32:26.014557+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-05T18:06:38.960472+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-06T10:40:30.979173+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-07T12:28:31.349208+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-07T16:09:20.381538+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-07T18:06:23.751141+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-08T07:56:42.141233+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-08T17:07:48.433000+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-08T20:55:15.620240+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-09T13:02:05.390556+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-10T07:36:59.253364+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-10T13:04:18.566596+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-11T17:40:33.447371+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-11T22:12:39.862078+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-12T07:35:05.682224+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-13T07:01:10.835852+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-13T08:12:43.065759+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-13T12:20:05.987794+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-14T12:00:40.202474+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-14T17:18:38.839824+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-15T06:52:28.500094+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-15T10:53:22.919748+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-15T11:18:41.872624+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-16T07:50:22.964974+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-16T09:48:43.785989+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-17T15:45:34.920265+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-17T19:43:21.947915+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-18T06:26:46.734485+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-18T16:25:50.684769+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-18T16:55:33.188826+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-19T10:38:44.147789+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-20T09:05:02.020163+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-20T11:58:02.633349+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-21T08:24:42.728834+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-22T07:33:35.570203+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-23T11:47:42.834084+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-23T13:08:13.748618+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-24T08:38:41.490088+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-24T16:08:08.894859+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-24T21:01:00.541693+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-25T14:15:22.496339+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-25T17:15:10.648000+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-26T07:56:05.631496+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-26T10:48:54.683969+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-26T13:18:30.714364+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-27T09:44:55.728253+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-28T06:07:50.449657+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-29T19:02:41.791071+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-30T06:07:53.070282+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-30T11:34:41.088183+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-31T09:54:42.775824+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-31T15:03:14.039689+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-01T07:13:31.020391+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-01T20:38:59.978956+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-02T20:39:21.132833+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-03T10:55:18.330582+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-03T12:52:30.680532+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-03T16:52:56.670146+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-04T12:09:05.384704+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-04T13:49:17.930396+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-04T17:43:24.134514+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-05T12:43:40.921848+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-05T14:54:26.507632+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-06T07:17:54.417901+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-06T19:14:42.013559+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-07T21:24:02.471173+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-08T08:30:38.617963+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-08T16:58:21.110142+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-08T22:17:23.268959+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-09T18:55:25.176087+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-10T22:10:19.079003+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-11T18:49:32.084505+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-11T18:55:04.481556+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-12T11:29:40.344389+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-12T16:55:51.100037+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-12T22:46:15.755201+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-13T11:08:52.610631+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-13T13:31:03.133507+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-14T06:38:21.563429+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-14T07:15:40.468158+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-14T13:50:58.640171+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-15T16:27:18.513371+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-16T15:51:56.159734+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-16T22:13:18.966375+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-17T11:27:57.437888+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-17T14:05:08.496510+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-17T17:04:52.452224+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-18T07:26:00.942880+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-18T22:42:01.997563+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-19T13:26:30.806388+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-19T13:28:12.613656+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-19T14:53:12.179758+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-20T17:32:28.540498+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-20T19:09:57.245061+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-21T07:07:13.805482+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-21T07:36:23.763988+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-22T16:14:45.289796+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-22T20:28:35.855111+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-22T22:23:41.893754+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-23T11:16:26.182338+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-23T17:09:10.548744+00:00"
+      }
+    ]
+  },
+  "CHRGR-004": {
+    "id": "CHRGR-004",
+    "label": "Slow Decline",
+    "raw_checkins": [
+      {
+        "result": "worked",
+        "timestamp": "2026-06-26T11:15:46.411510+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-26T12:24:12.773531+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-26T21:56:45.734613+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-27T07:35:19.321462+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-27T21:30:41.816710+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-06-27T22:57:06.443714+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-28T09:03:52.090880+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-28T09:38:28.590866+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-29T22:59:58.569212+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-30T07:43:09.814736+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-06-30T20:21:19.017388+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-01T06:38:30.146532+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-01T11:43:29.979564+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-01T19:01:38.025392+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-02T08:48:50.996944+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-02T19:06:31.186200+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-02T19:45:13.475642+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-03T22:28:58.822529+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-04T09:58:40.980193+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-04T10:03:57.112031+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-04T19:19:28.581997+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-05T12:15:11.866643+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-06T10:47:24.430041+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-06T13:50:54.814681+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-07T19:53:13.743862+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-08T20:50:27.717508+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-09T15:25:37.893620+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-09T20:51:35.957037+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-10T10:50:45.856460+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-11T13:38:18.336287+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-11T14:43:37.187561+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-12T19:53:02.239258+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-13T13:03:11.690636+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-14T10:00:29.618120+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-14T22:54:24.951496+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-15T20:15:57.588802+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-16T08:20:21.094769+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-17T08:21:34.112739+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-17T17:49:59.605701+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-18T21:23:58.478333+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-19T20:11:39.741676+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-20T13:11:43.191248+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-20T16:21:03.462066+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-20T19:11:41.765117+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-21T07:53:04.503192+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-21T13:46:15.353338+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-21T19:29:46.625449+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-22T10:57:05.845652+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-22T15:46:32.904401+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-22T18:12:54.912861+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-23T17:17:39.523667+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-24T07:09:01.974562+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-24T14:56:34.838054+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-25T06:20:44.459545+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-25T06:44:24.306820+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-25T20:50:47.884038+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-26T11:51:41.912582+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-26T19:24:17.424996+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-27T06:45:13.344124+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-27T11:39:10.138832+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-27T18:29:53.443471+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-28T13:53:54.921465+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-28T16:44:22.233883+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-28T17:49:17.822222+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-29T06:37:43.407960+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-29T09:25:37.368762+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-30T14:45:41.475662+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-30T21:52:02.303973+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-31T06:37:21.191218+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-31T16:59:50.310527+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-01T20:43:06.854557+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-02T19:35:19.755585+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-03T18:38:10.431578+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-03T21:12:31.814691+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-04T12:14:41.631930+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-04T17:45:54.591656+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-05T18:21:37.377050+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-06T09:04:03.936939+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-06T10:59:38.504843+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-06T22:55:00.007688+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-07T13:14:38.303660+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-07T16:14:40.443617+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-08T18:21:21.041018+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-09T10:40:02.788037+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-09T22:39:37.669487+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-09T22:58:06.816584+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-10T14:43:20.864391+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-10T18:44:53.756637+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-11T08:08:45.277487+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-11T13:26:56.176886+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-11T17:31:39.038966+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-12T06:33:01.981828+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-12T08:36:30.415600+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-12T13:38:55.261205+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-13T15:00:02.944750+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-14T06:26:25.896461+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-14T10:44:15.813698+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-14T22:19:43.827199+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-15T10:27:00.732607+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-16T09:38:51.710036+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-16T16:24:06.883585+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-17T08:05:05.410221+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-18T08:56:06.569476+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-18T18:07:38.237535+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-19T17:21:11.795178+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-19T18:03:43.877793+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-20T18:06:02.717165+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-20T20:28:23.357506+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-21T08:03:47.382251+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-21T14:38:55.851605+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-22T06:26:48.582441+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-22T15:25:06.111960+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-23T07:07:03.784042+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-23T08:12:21.999258+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-23T21:01:55.882546+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-24T19:04:32.870483+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-24T19:59:48.371250+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-25T07:15:38.899210+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-25T13:55:08.991817+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-25T14:47:42.432723+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-26T09:05:36.143957+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-26T13:21:16.239133+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-26T22:25:35.394373+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-27T11:10:12.422020+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-28T09:49:58.781425+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-28T14:49:16.544956+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-28T22:06:25.967973+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-29T10:39:56.403233+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-29T16:26:43.010632+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-29T16:37:31.368521+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-30T08:37:16.689133+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-30T17:11:54.451851+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-30T18:15:02.725428+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-31T07:22:50.838719+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-01T09:35:01.472838+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-01T10:29:56.941559+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-01T15:43:34.796790+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-02T10:55:27.905396+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-02T14:12:36.222872+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-02T22:15:46.990401+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-03T17:42:23.150586+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-04T09:28:06.208430+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-04T14:13:56.169163+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-05T11:25:42.163230+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-05T11:52:16.678315+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-05T22:47:47.030211+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-06T11:25:29.892248+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-07T08:23:41.711263+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-07T13:38:35.275934+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-08T13:06:29.846292+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-08T21:20:21.422617+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-08T22:21:56.374157+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-09T18:58:23.028158+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-10T13:56:09.085206+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-10T14:27:19.060711+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-10T20:56:39.430612+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-11T09:39:26.838659+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-12T10:46:59.007908+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-13T06:08:20.457244+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-13T10:51:27.800944+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-13T17:25:58.260950+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-14T12:13:15.365974+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-14T18:59:08.033967+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-15T12:09:46.455088+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-16T14:34:20.438382+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-16T18:59:41.531820+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-17T07:38:36.906945+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-17T08:11:14.199510+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-17T16:23:15.840240+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-18T09:23:02.342351+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-18T18:50:03.868544+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-19T06:39:41.534734+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-20T08:31:55.168672+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-20T14:49:43.161872+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-21T11:24:54.037944+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-21T12:40:48.820777+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-21T16:28:49.829833+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-22T11:05:47.182562+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-22T15:02:59.197588+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-22T18:02:54.876154+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-23T15:55:22.571081+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-23T19:32:41.394613+00:00"
+      }
+    ]
+  },
+  "CHRGR-005": {
+    "id": "CHRGR-005",
+    "label": "Low Traffic",
+    "raw_checkins": [
+      {
+        "result": "worked",
+        "timestamp": "2026-06-26T14:04:04.921102+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-02T16:41:36.344758+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-07-04T17:34:20.485977+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-06T06:19:18.966891+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-07T17:44:18.615968+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-12T08:20:50.648130+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-17T21:30:21.998649+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-24T10:11:26.971094+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-25T22:32:22.130409+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-07-27T17:59:05.281496+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-01T17:30:09.281442+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-13T15:09:20.968931+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-15T16:27:59.434506+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-16T17:23:13.838651+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-18T13:01:34.043602+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-08-19T19:06:10.882756+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-26T22:23:11.539180+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-08-29T15:45:36.961214+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-02T20:59:53.392358+00:00"
+      },
+      {
+        "result": "failed",
+        "timestamp": "2026-09-11T15:39:19.266362+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-20T07:54:53.981774+00:00"
+      },
+      {
+        "result": "worked",
+        "timestamp": "2026-09-23T18:31:21.015204+00:00"
+      }
+    ]
+  }
+}

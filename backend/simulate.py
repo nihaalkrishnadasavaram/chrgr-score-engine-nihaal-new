@@ -150,7 +150,7 @@ def run_simulation():
 
 
 def export_json(data: dict):
-    # Slim export for the React dashboard (no raw check-ins, keeps payload small)
+    # Slim export (no raw check-ins, keeps payload small) — used for quick summaries
     slim = {
         cid: {
             "id": d["id"],
@@ -163,6 +163,20 @@ def export_json(data: dict):
     path = OUT_DIR / "simulation_results.json"
     path.write_text(json.dumps(slim, indent=2))
     print(f"Wrote {path}")
+
+    # Full export including raw check-ins — used by the React dashboard so it
+    # can recompute scores client-side (e.g. live decay-constant slider).
+    full = {
+        cid: {
+            "id": d["id"],
+            "label": d["label"],
+            "raw_checkins": d["raw_checkins"],
+        }
+        for cid, d in data.items()
+    }
+    full_path = OUT_DIR / "raw_checkins.json"
+    full_path.write_text(json.dumps(full, indent=2))
+    print(f"Wrote {full_path}")
 
 
 def plot_trajectories(data: dict):

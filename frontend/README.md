@@ -25,8 +25,24 @@ npm run preview
 
 ## What it shows
 
-- Left sidebar: all 5 simulated chargers with their current score and a
-  confidence dot (green = high, amber = medium, grey = low).
-- Main panel: the selected charger's live score, confidence badge, and its
-  90-day score trajectory as a line chart — hover any point to see the score
-  and check-in count on that day.
+A full analytics dashboard, matching (and extending) the original Streamlit
+version — but with the scoring math ported to JS (`src/lib/reliabilityEngine.js`)
+so every control recomputes live, in the browser, with no backend call:
+
+- **Metric cards**: reliability score, confidence, total check-ins, success
+  rate, failure rate, last check-in.
+- **Live controls** (sidebar): charger selector, a decay-constant (λ) slider
+  that recomputes every chart instantly, a date range filter, a "show raw
+  check-ins" toggle, and a "New simulation" button that regenerates fresh
+  randomized data client-side (`src/lib/simulate.js`, a JS port of the
+  Python generators).
+- **8 charts**: score over time, confidence over time, daily success vs
+  failure, working/failed donut, the time-decay weight curve (with a
+  half-life marker), check-in distribution histogram, check-in age vs
+  weight scatter, and a recent-failures timeline.
+- **Detailed check-in data table**: filterable by status, with a CSV export.
+- **A "How does the Reliability Score work?" panel**: the full written
+  methodology (decay math, what λ controls, confidence tiers).
+
+The JS scoring engine is verified to produce numerically identical results
+to `backend/reliability_engine.py` for the same inputs.
