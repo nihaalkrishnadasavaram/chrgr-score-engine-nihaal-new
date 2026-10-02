@@ -76,8 +76,11 @@ confidence threshold boundary.
 
 ## Simulation
 
+Two ways to run it:
+
 ```bash
-python simulate.py
+python simulate.py                    # script: writes JSON + a PNG plot
+jupyter notebook reliability_score_simulation.ipynb   # notebook: same simulation, walked through step by step
 ```
 
 Generates 90 days of synthetic check-in data for 5 chargers, each with a
@@ -92,6 +95,8 @@ distinct pattern:
 Outputs to `simulation_output/`:
 - `simulation_results.json` — daily score/confidence trajectory per charger (consumed by the React dashboard)
 - `score_trajectories.png` — plotted score evolution over the 90 days
+
+`reliability_score_simulation.ipynb` runs the identical simulation (same seed, same patterns) as a notebook — setup → charger pattern definitions → run → plot → final scores summary — each step in its own cell with explanation, for anyone who wants to read or re-run it interactively rather than as a script.
 
 ## Stack
 
